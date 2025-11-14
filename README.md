@@ -1,5 +1,5 @@
 # Podcast-do-tomo
-Podcast feito com IA para projeto do curso da DIO- santander
+Podcast feito com IA para projeto do curso da DIO-Santander
 
 # Projeto Podcast Gerado por I.A.
 
